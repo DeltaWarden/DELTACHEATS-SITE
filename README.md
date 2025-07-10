@@ -74,5 +74,5 @@ npm install
 npm run dev
 ```
 
-
+Заказать полный сайт - TG: @deltasquare
 
